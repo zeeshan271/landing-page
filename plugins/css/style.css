@@ -1,0 +1,418 @@
+body
+{
+    background-color:#20293e;
+}
+.nav
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+}
+.logo
+{
+    height: 45px;
+    margin-top: 10px;
+}
+.nav a
+{
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+    margin: 0px 10px;
+    color:aliceblue ;
+}
+.nav a:hover
+{
+    border-bottom: 3px solid #0066cb;
+}
+
+.menu .btn
+{
+    background-color: #0066cb;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.menu .btn:hover
+{
+    background-color: #075aad;
+}
+
+#home
+{
+    display: flex;
+    
+}
+#home .left-side
+{
+    padding: 50px;
+    color: aliceblue;
+    margin-top: 160px;
+}
+#home .left-side h2
+{
+    font-size: 60px;
+}
+#home .left-side p
+{
+    font-size: 20px;
+}
+#home .left-side .bottom-btn
+{
+    margin-top: 100px;
+    height: 10px;
+}
+#home .left-side .bottom-btn a
+{
+    background-color: #0066cb;
+    padding: 20px 40px;
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+    box-shadow: 0px 0px 10px gray;
+    border: 1px solid white;
+}
+.bottom-btn-1
+{
+    margin-top: -7px;
+    margin-left: 250px;
+}
+#home .right-side
+{
+    padding: 10px;
+    size: -80px;
+    margin-left: 50px;
+    
+}
+#home .right-side img
+{
+    height: 500px;
+}
+#movie 
+{
+    background-color: aliceblue;
+}
+#movie .movie-1
+{
+    margin-left: 500px;
+    margin-top: 180px;
+}
+.img-9
+{
+    margin-left: 250px;
+}
+#tools .tool-1  
+{
+    margin-left: 500px;
+    color: aliceblue;
+}
+.mappa
+{
+    margin-left: 200px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+.mappa-1
+{
+    margin-left: 320px;
+    margin-top: -100px;
+    color: aliceblue;
+
+}
+.mappa-2
+{
+    margin-left: 320px;
+    margin-top: -10px;
+    color: aliceblue;
+}
+.wallet
+{
+    margin-left: 800px;
+    margin-top: -130px;
+    color: aliceblue;
+}
+.wallet-1
+{
+    margin-left: 930px;
+    margin-top: -100px;
+    color: aliceblue;
+}
+.wallet-2
+{
+    margin-left: 930px;
+    margin-top: -10px;
+    color: aliceblue;
+}
+.token
+{
+    margin-left:197px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+.token-1
+{
+    margin-left: 310px;
+    margin-top: -100px;
+    color: aliceblue;
+}
+.token-2
+{
+    margin-left: 310px;
+    color: aliceblue;
+    margin-top: -10px;
+}
+.shop
+{
+    margin-left: 800px;
+    margin-top: -100px;
+    color: aliceblue;
+}
+.shop-1
+{
+    margin-left: 920px;
+    margin-top: -110px;
+    color:aliceblue;
+}
+.shop-2
+{
+    margin-left: 920px;
+    margin-top: 0px;
+    color: aliceblue;
+}
+.giochi
+{
+    margin-left: 190px;
+    margin-top: 60px;
+}
+.giochi-1
+{
+    margin-left: 300px;
+    margin-top: -100px;
+    color: aliceblue;
+}
+.giochi-2
+{
+    margin-left: 300px;
+    margin-top: -10px;
+    color: aliceblue;
+}
+.premi
+{
+    margin-left: 800px;
+    margin-top: -80px;
+}
+.premi-1
+{
+    margin-left: 920px;
+    margin-top: -120px;
+    color: aliceblue;
+}
+.premi-2
+{
+    margin-left: 920px;
+    margin-top: -6px;
+    color: aliceblue;
+}
+.partner
+{
+    margin-left: 550px;
+    margin-top: 100px;
+    color: aliceblue;
+}
+.brosky
+{
+    margin-left: 90px;
+    margin-top: 150px;
+    color: aliceblue;
+}
+.text-1
+{
+    margin-left: 90px;
+    margin-top: -14px;
+    color: #c0911c;
+}
+.text-2
+{
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.text-3
+{
+   margin-left: 110px;
+   margin-top: -40px;
+   color: aliceblue;
+}
+.text-4
+{
+    margin-left: 90px;
+    margin-top: -9px;
+}
+.text-5
+{
+    margin-left: 110px;
+    margin-top: -40px;
+    color: aliceblue;
+}
+.text-6
+{
+    margin-left: 90px;
+    margin-top: -9px;
+}
+.text-7
+{
+    margin-left: 110px;
+    margin-top: -40px;
+    color: aliceblue;
+}
+.text-8
+{
+    margin-left: 90px;
+    margin-top: -9px;
+}
+.text-9
+{
+    margin-left: 110px;
+    margin-top: -40px;
+    color: aliceblue;
+    
+}
+.text-11
+{
+    margin-left: 800px;
+    margin-top: -300px;
+}
+#new 
+{
+    background-color: aliceblue;
+
+}
+#new .new-123
+{
+    margin-left: 150px;
+    margin-top: 10px;
+
+}
+.new-2
+{
+    margin-left: 400px;
+    margin-top: 90px;
+}
+.star-1
+{
+    margin-left: 550px;
+    margin-top: -45px;
+}
+.star-2
+{
+    margin-left: 590px;
+    margin-top: -30px;
+}
+.star-3
+{
+    margin-left: 630px;
+    margin-top: -30px;
+}
+.star-4
+{
+    margin-left: 670px;
+    margin-top:-30px ;
+}
+.star-5
+{
+    margin-left: 710px;
+    margin-top: -30px;
+}
+.date
+{
+    margin-left: 500px;
+    margin-top: 40px;
+}
+.para 
+{
+    margin-left: 850px;
+    margin-top: -180px;
+    padding: 20px;
+}
+
+.brand-5
+{
+    padding: 60px;
+    margin-left: 30px;
+}
+.para-2
+{
+    margin-left: 300px;
+    margin-top: -200px;
+    color:aliceblue;
+}
+.whatsapp
+{
+    margin-left: 700px;
+    margin-top: -120px; 
+}
+.instagram
+{
+    margin-left: 770px;
+    margin-top: -50px;
+}
+.number
+{
+
+    margin-top: 4px;
+    margin-left: 700px;
+    color: aliceblue;
+}
+.para-5
+{
+    margin-left: 1000px;
+    margin-top: -90px;
+    color: aliceblue;
+}
+.photo-1
+{
+    margin-left: 1170px;
+    margin-top: -150px;
+}
+.photo-2
+{
+    margin-left: 1170px;
+    margin-top: 30px;
+}
+.text123
+{
+    margin-left: 560px;
+    margin-top: 60px;
+    color: aliceblue;
+}
+
+
+/* medium screen size  */
+@media screen and (max-width: 1040px) {
+    #home .right-side {
+      /* flex-direction: column-reverse; */
+      align-items: baseline;
+      padding: 10px;
+      width: 40px; /* Adjust this value based on your requirement */
+      margin-left: -25px; /* Adjust this value based on your requirement */
+    }
+  }
+  
+
+
+
+/* small screen size  */
+@media screen and (max-width: 768px) 
+{
+    
+   
+}
+
+
+/* extra small screen size  */
+@media screen and (max-width: 480px) 
+{
+    
+}
